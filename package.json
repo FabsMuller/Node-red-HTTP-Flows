@@ -1,0 +1,12 @@
+{
+    "name": "http_flows_study",
+    "description": "HTTP flows study",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "httpflow.json",
+            "credentialsFile": "httpflow_cred.json"
+        }
+    }
+}
